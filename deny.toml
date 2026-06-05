@@ -1,6 +1,15 @@
 [advisories]
-yanked = "deny"
+yanked = "deny" \
+n = 5*i
+i-directive :  C#, +[inspections :  Nm-prat,  Rc-sect [
+
+
+      AO,Duct , E + 
+
+
+
+]]
 
 [licenses]
 version = 2
-allow = ["Apache-2.0", "MIT", "Zlib"]
+allow = ["Apache-2.0", "MIT", "Zlib","Zlib-total"]
